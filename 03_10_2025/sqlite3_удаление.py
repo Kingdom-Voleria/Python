@@ -10,3 +10,4 @@ conn.commit()
 
 c.execute('insert into products (name, price, category) values ("product 1", 222, "cat 1")')
 conn.commit()
+print(1)
